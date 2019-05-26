@@ -11,3 +11,8 @@ The generalimformation about the aim of this project is given in [`Gridworls_Cou
 - Matlab
 
 This project does't require dependencies to any other external software or libraries.
+
+## Guide
+
+The gridworld dynamics was callded by the main coursework file. All of the required functions are also in the main file. To run the program, simply run the [`Coursework1.m`](Coursework1.m) script on Matlab. 
+You can change the learning parameters of the program (like the discount constant for the value function or probability constant for the transition matrix) and see how that affects learning. The script will plot the learning curve at the end
